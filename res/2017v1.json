@@ -1,0 +1,125 @@
+[
+    {
+        "id": "2017v1-1",
+        "statement": "La absorción intestinal de hierro es más eficaz:",
+        "answers": [
+            "En forma de ión férrico",
+            "En forma de grupo hemo",
+            "Mediante el transportador de membrana transferrina",
+            "Si hay oxalatos en la luz digestiva"
+        ],
+        "correct-answer": 2,
+        "tags": ["fisiologia","bioquimica"]
+    },
+    {
+        "id": "2017v1-2",
+        "statement": "Estimula la secreción de la hormona del crecimiento:",
+        "answers": [
+            "Hiperglucemia",
+            "Somatostatina",
+            "Ácidos grasos libres en plasma",
+            "Aminoácidos en plasma"
+        ],
+        "correct-answer": 4,
+        "tags": ["fisiologia"]
+    },
+    {
+        "id": "2017v1-3",
+        "statement": "La parathormona estimula la:",
+        "answers": [
+            "Secreción de osteoprotegerina por osteoblastos",
+            "Reabsorción renal de fosfato",
+            "Resorción ósea por osteoclastos",
+            "Formación de 24,25 dihidroxicolecalciferol"
+        ],
+        "correct-answer": 3,
+        "tags": ["fisiologia"]
+    },
+    {
+        "id": "2017v1-4",
+        "statement": "Cuando la presión arterial media sube de 100 hasta 150 mmHg:",
+        "answers": [
+            "Se produce vasodilatación de la arteriola aferente al glomérulo renal",
+            "Se produce vasoconstricción de la arteriola aferente al glomérulo renal",
+            "La filtración glomerular aumenta 1,5 veces",
+            "La filtración glomerular disminuye 1,5 veces"
+        ],
+        "correct-answer": 2,
+        "tags": ["fisiologia","bioquimica"]
+    },
+    {
+        "id": "2017v1-5",
+        "statement": "La concentración de una sustancia "X" en plasma es 2 mM y en orina es 100mM. Si el flujo urinario es de 2ml/min, el aclaramiento renal de "X" es:",
+        "answers": [
+            "25 mM",
+            "50 mM",
+            "50 ml/min",
+            "100 ml/min"
+        ],
+        "correct-answer": 4,
+        "tags": ["fisiologia","bioquimica"]
+    },
+    {
+        "id": "2017v1-6",
+        "statement": "Las células del Haz de His:",
+        "answers": [
+            "Carecen de canales de Ca^2+ dependientes de voltaje",
+            "Establecen la frecuencia cardíaca",
+            "Su concentración determina el volumen sistólico",
+            "Transmiten el impulso cardíaco más rápidamente que el nodo aurículo-ventricular"
+        ],
+        "correct-answer": 4,
+        "tags": ["fisiologia"]
+    },
+    {
+        "id": "2017v1-7",
+        "statement": "El reflejo extensor cruzado se produce por activación de:",
+        "answers": [
+            "Nociceptores",
+            "Receptores Ia del huso muscular",
+            "Receptores Ib del órgano tendinoso de Golgi",
+            "Ganglios basales"
+        ],
+        "correct-answer": 1,
+        "tags": ["fisiologia"]
+    },
+    {
+        "id": "2017v1-8",
+        "statement": "La testosterona:",
+        "answers": [
+            "Se sintetiza en células de Sertoli",
+            "Es anabolizante",
+            "Disminuye el hematocrito",
+            "Estimula la secreción de LH"
+        ],
+        "correct-answer": 2,
+        "tags": ["fisiologia","bioquimica","embriologia"]
+    },
+
+
+    },
+    {
+        "id": "2017v1-51",
+        "impugned": true,
+        "statement": "¿Cuál de las siguientes células contine gránulos con mediadores de inflamación?",
+        "answers": [
+            "Fibroblastos",
+            "Cebadas (mastocitos)",
+            "Plasmáticas",
+            "Leucocitos eosinófilos"
+        ],
+        "tags": ["inmunologia", "..."]
+    },
+    {
+        "id": "2017v1-",
+        "statement": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct-answer": 2,
+        "tags": []
+    }
+]
